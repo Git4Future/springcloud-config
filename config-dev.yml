@@ -1,1 +1,2 @@
-name:config-dev
+config:
+ info: version=1
